@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming (especially Python) and robotics
 - 🌱 I’m currently learning Python and HTML
 - 📫 I have no ways of contact
-- ⚡ Fun fact: idk
+- ⚡ Fun fact: im stoopid
 
 <!---
 Dodo99-max/Dodo99-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
